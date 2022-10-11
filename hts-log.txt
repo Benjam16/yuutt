@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Mon, 10 Oct 2022 18:31:55 at https://www.cyberwalkersnfts.com/?fbclid=IwAR3R7kkVwAbbhn9S5k-EXI8jIpP0j_I4GfgfhHfyOsPjrHBYtoHulnQMOvo +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.cyberwalkersnfts.com/?fbclid=IwAR3R7kkVwAbbhn9S5k-EXI8jIpP0j_I4GfgfhHfyOsPjrHBYtoHulnQMOvo -O "/Users/oneilbenjamin/websites/buff" -n -%P -N100 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:32:02	Warning: 	HTML file (1396 bytes) retransferred due to lack of cache: https://www.cyberwalkersnfts.com/
+18:33:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.cyberwalkersnfts.com/manifest.json (from https://www.cyberwalkersnfts.com/?fbclid=IwAR3R7kkVwAbbhn9S5k-EXI8jIpP0j_I4GfgfhHfyOsPjrHBYtoHulnQMOvo)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 17 seconds : 9 links scanned, 10 files written (1144191 bytes overall) [438518 bytes received at 5695 bytes/sec], 974474 bytes transferred using HTTP compression in 4 files, ratio 35%, 3.0 requests per connection
+(No errors, 2 warnings, 0 messages)
